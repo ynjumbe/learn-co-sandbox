@@ -1,0 +1,4 @@
+function doNothing() {}
+funciton sayHello() {
+console.log('Hello!')
+}fffd
